@@ -1,0 +1,22 @@
+.note-input {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    border-top: 1px solid #ddd;
+}
+
+.note-input input {
+    flex: 1;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.note-input button {
+    margin-left: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #89C15E;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
